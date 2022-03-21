@@ -1,1 +1,1 @@
-﻿Console.WriteLine("6666 Hello, World!");
+﻿Console.WriteLine("Hello, Fucking World!");
